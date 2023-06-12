@@ -1,0 +1,9 @@
+* asdf-viz
+
+ASDF system dependency visualizer
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/guicho271828/asdf-viz.git |
+| commit  | 33e5c97                                          |
+| systems | asdf-viz                                         |
+|---------+--------------------------------------------------|
